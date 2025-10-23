@@ -1,8 +1,8 @@
 import React, { useContext } from "react";
-import { AssetContext } from "./FamilyTree";
+import { assetContext } from "./FamilyTree";
 
 const Special = ({ asset }) => {
-  const newAsset=useContext(AssetContext);  
+  const newAsset = useContext(assetContext);
   console.log(newAsset);
   return (
     <div>

@@ -16,7 +16,7 @@ function App() {
       {/* <FormControl></FormControl> */}
      {/* <HookForm> </HookForm> */}
      {/* <Uncontrolled></Uncontrolled> */}
-     <ProductManagement></ProductManagement>
+     {/* <ProductManagement></ProductManagement> */}
     <FamilyTree></FamilyTree>
     </div>
   )

@@ -7,7 +7,7 @@ const Uncle = ({ asset }) => {
             <h2>Uncle </h2>
             <section className='flex'>
                 <Cousin name="Rakib" asset={asset}></Cousin>
-                <Cousin name="Mohim"></Cousin>
+                <Cousin name="Mohim" asset={asset}></Cousin>
                 
             </section>
         </div>
